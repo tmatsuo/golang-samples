@@ -1,3 +1,2 @@
 ignoreFiles:
   - "regiontag_test.go"
-  - "CONTRIBUTING.md"
